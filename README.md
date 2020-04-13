@@ -32,6 +32,6 @@ Support :
 - Receipt print
 - Invoice Print
 
-*** DONT FORGET TO DELETE index.html FILE ***
+> DONT FORGET TO DELETE index.html FILE
 
 enjoy it...
