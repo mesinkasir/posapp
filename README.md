@@ -1,10 +1,17 @@
 # AXCORAPOS TECHNOLOGY
-
+![pos point of sale applications](https://mesinkasir.github.io/posapp/main/images/aplikasikasironline.png)
 ### SIMPLE FREE AND FAST CLOUD WEB APP POINT OF SALE
 
 Requirement : 
 Offline installation use XAMPP,WAMPP,LAMPP
 Online installation with shared or clouds hosting
+
+With online clouds based you can use this app in multi device and os technology, just install in you online host and accses pos app via android / iphone smartphone or from you pc desktop windows linuxs mac and more.
+
+Focusing for point of sale with report detail for you bussines.
+
+present by axcorapos technology
+[visit axcorapos web app](https://axcoras.web.app)
 
 Procedure :
 - For the first you need to download this app
