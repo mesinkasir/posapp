@@ -2,6 +2,8 @@
 ![pos point of sale applications](https://mesinkasir.github.io/posapp/main/images/aplikasikasironline.png)
 ### SIMPLE FREE AND FAST CLOUD WEB APP POINT OF SALE
 
+Documentation full and installation [click here](https://www.hockeycomputindo.com/2020/04/free-download-app-point-of-sale-online.html)
+
 Requirement : 
 Offline installation use XAMPP,WAMPP,LAMPP
 Online installation with shared or clouds hosting
@@ -33,5 +35,7 @@ Support :
 - Invoice Print
 
 > DONT FORGET TO DELETE index.html FILE
+
+Documentation full and installation [click here](https://www.hockeycomputindo.com/2020/04/free-download-app-point-of-sale-online.html)
 
 enjoy it...
