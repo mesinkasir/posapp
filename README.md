@@ -18,7 +18,7 @@ present by axcorapos technology
 [visit axcorapos web app](https://axcora.com)
 
 
-How to install ?? read documentation [Documentation full and installation [https://www.hockeycomputindo.com/2020/04/free-download-app-point-of-sale-online.html](https://www.hockeycomputindo.com/2020/04/free-download-app-point-of-sale-online.html](Documentation full and installation [https://www.hockeycomputindo.com/2020/04/free-download-app-point-of-sale-online.html](https://www.hockeycomputindo.com/2020/04/free-download-app-point-of-sale-online.html))
+How to install ?? read documentation [https://www.hockeycomputindo.com/2020/04/free-download-app-point-of-sale-online.html](https://www.hockeycomputindo.com/2020/04/free-download-app-point-of-sale-online.html)
 
 Support :
 - Barcode
