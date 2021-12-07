@@ -2,7 +2,9 @@
 ![pos point of sale applications](https://mesinkasir.github.io/posapp/main/images/aplikasikasironline.png)
 ### SIMPLE FREE AND FAST CLOUD WEB APP POINT OF SALE
 
-Documentation full and installation [click here](https://www.hockeycomputindo.com/2020/04/free-download-app-point-of-sale-online.html)
+Documentation full and installation [https://www.hockeycomputindo.com/2020/04/free-download-app-point-of-sale-online.html](https://www.hockeycomputindo.com/2020/04/free-download-app-point-of-sale-online.html)
+
+Need demo ?? just visit : [https://axcora.my.id/axcoraapp/](https://axcora.my.id/axcoraapp/)
 
 Requirement : 
 Offline installation use XAMPP,WAMPP,LAMPP
@@ -13,7 +15,7 @@ With online clouds based you can use this app in multi device and os technology,
 Focusing for point of sale with report detail for you bussines.
 
 present by axcorapos technology
-[visit axcorapos web app](https://axcoras.web.app)
+[visit axcorapos web app](https://axcora.com)
 
 Procedure :
 - For the first you need to download this app
@@ -36,6 +38,10 @@ Support :
 
 > DONT FORGET TO DELETE index.html FILE
 
-Documentation full and installation [click here](https://www.hockeycomputindo.com/2020/04/free-download-app-point-of-sale-online.html)
+
+
+Documentation full and installation [https://www.hockeycomputindo.com/2020/04/free-download-app-point-of-sale-online.html](https://www.hockeycomputindo.com/2020/04/free-download-app-point-of-sale-online.html)
+
+Need demo ?? just visit : [https://axcora.my.id/axcoraapp/](https://axcora.my.id/axcoraapp/)
 
 enjoy it...
