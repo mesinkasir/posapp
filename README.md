@@ -17,18 +17,8 @@ Focusing for point of sale with report detail for you bussines.
 present by axcorapos technology
 [visit axcorapos web app](https://axcora.com)
 
-Procedure :
-- For the first you need to download this app
-- Extract the file in to c:\xampp\htdocs folder
-- Create new mysql databased in phpmyadmin
-- Configure connect.php file 
-- Configure login.php file @ mysqli_connect & mysqli_select_db
-- Now open web browser localhost/axcorapos
-- Login with username and pass : admin
-- Now you can use this app
-- Create a product based.
-- POS features for transaction
-- and you can check profit on report
+
+How to install ?? read documentation [Documentation full and installation [https://www.hockeycomputindo.com/2020/04/free-download-app-point-of-sale-online.html](https://www.hockeycomputindo.com/2020/04/free-download-app-point-of-sale-online.html](Documentation full and installation [https://www.hockeycomputindo.com/2020/04/free-download-app-point-of-sale-online.html](https://www.hockeycomputindo.com/2020/04/free-download-app-point-of-sale-online.html))
 
 Support :
 - Barcode
