@@ -10,13 +10,13 @@ Need demo ?? just visit : [https://axcora.my.id/axcoraapp/](https://axcora.my.id
 
 ### 💖 Thanks for Sponsor 🤞
 
-![https://www.adamdjbrett.com/](https://github.com/adamdjbrett/adamdjbrett.github.io/blob/master/assets/img/open-graph-logo.png?raw=true)
+[![https://www.adamdjbrett.com/](https://github.com/adamdjbrett/adamdjbrett.github.io/blob/master/assets/img/open-graph-logo.png?raw=true)](https://www.adamdjbrett.com/)
 
 ----------------------------------------
 
 ### 🥇 Supporter 👨🏻‍🚀
 
-![https://github.com/adamdjbrett](https://avatars.githubusercontent.com/u/22662978?s=70&v=4)
+[![https://github.com/adamdjbrett](https://avatars.githubusercontent.com/u/22662978?s=70&v=4)](https://github.com/adamdjbrett)
 
 -----------------------------------------------------------
 
@@ -24,6 +24,9 @@ Need demo ?? just visit : [https://axcora.my.id/axcoraapp/](https://axcora.my.id
 ### Buy me a coffee ☕️ ❤️  ✌🏻 
 
 [Paypall](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JVZVXBC4N9DAN) [Gumroad](https://creativitaz.gumroad.com/l/coffee) [Github Sponsor](https://github.com/sponsors/mesinkasir)
+
+
+-----------------------------------------------------------
 
 Requirement : 
 Offline installation use XAMPP,WAMPP,LAMPP
